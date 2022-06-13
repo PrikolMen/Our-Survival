@@ -8,6 +8,5 @@ saves
 logs
 .sl_password
 *.dat_old
-*.dat
 usercache.json
 usernamecache.json
