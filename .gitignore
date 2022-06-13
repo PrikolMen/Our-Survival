@@ -1,0 +1,11 @@
+moreplayermodels
+server-resource-packs
+defaultconfigs
+schematics
+saves
+logs
+.sl_password
+*.dat_old
+*.dat
+usercache.json
+usernamecache.json
