@@ -4,7 +4,7 @@
 # To reload your JSONs, type /reload into chat with cheats enabled; The same way you reload datapacks, crafttweaker scripts, etc.
 [core]
 	# Whether or not heart fruits are functional and generate in-world.
-	"Heart Fruits Enabled" = false
+	"Heart Fruits Enabled" = true
 	# Whether or not the temperature system is enabled.
 	"Temperature Enabled" = true
 
@@ -12,7 +12,7 @@
 		# How often player temperature is regularly synced between the client and server, in ticks.
 		# Lower values will increase accuracy at the cost of performance
 		#Range: > 1
-		"Routine Packet Sync" = 30
+		"Routine Packet Sync" = 500
 
 # Options related to the temperature system
 [temperature]

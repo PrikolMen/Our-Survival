@@ -34,7 +34,7 @@
 	Auroras = true
 	#Limit sounds to waterfall strengths above this value
 	#Range: 0 ~ 10
-	"Waterfall Strength Cutoff" = 0
+	"Waterfall Strength Cutoff" = 2
 	#Enable/disable Firefly effect around plants
 	Fireflies = true
 	#Enable/disable Fountain Jets spraying

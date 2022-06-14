@@ -12,5 +12,5 @@
 #Debug
 [showPacketMessages]
 	#Used to display server/client messages in logs for debug purposes, default true, switching to false will hide these messages.
-	show_packet_messages = true
+	show_packet_messages = false
 

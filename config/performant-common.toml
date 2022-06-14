@@ -36,7 +36,7 @@
 		["Load balancing settings"."Event load balancing settings, events mostly cause lag during world/server/entity/player ticks,usually showing up in profilings under e"."Entity settings"]
 			#Entity spawn interval setting, determines how frequently entities are spawned overall. 1 = Vanilla default, default = 10
 			#Range: 1 ~ 1000
-			spawnInterval = 10
+			spawnInterval = 5
 			#List of entities excluded from beeing affected by dynamic entity updates: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
 			excludedTickDistanceMobs = []
 			#Fix leash lag from entities on a leash, default = true

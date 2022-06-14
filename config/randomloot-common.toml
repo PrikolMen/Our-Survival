@@ -8,7 +8,7 @@
 	boss_drops = 1000
 	#Weight of a golden case dropping
 	#Range: 0 ~ 100
-	gold_chance = 20
+	gold_chance = 25
 	#Allow anonymous data collection?
 	data = true
 	#Weight for any given piece of armor to drop from case

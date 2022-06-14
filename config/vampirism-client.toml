@@ -21,14 +21,14 @@
 		#Range: > -2147483648
 		overrideGuiSkillButtonX = 125
 		#Disable the effect of blood vision. It can still be unlocked and activated but does not have any effect
-		disableBloodVisionRendering = false
+		disableBloodVisionRendering = true
 		#Disable the FOV change caused by the speed buf for vampire players
-		disableFovChange = false
+		disableFovChange = true
 
 	#Configure rendering
 	[client.render]
 		#Render fog in vampire biome. Might be enforced server side
-		vampireForestFog = true
+		vampireForestFog = false
 		#Render player faces on advanced hunter or vampires
 		advancedMobPlayerFaces = true
 		#Render screen overlay. Don't disable
