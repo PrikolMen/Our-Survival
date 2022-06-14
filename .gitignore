@@ -2,6 +2,7 @@ otyacraftengine
 moreplayermodels
 server-resource-packs
 defaultconfigs
+crash-reports
 screenshots
 schematics
 saves
@@ -10,3 +11,4 @@ logs
 *.dat_old
 usercache.json
 usernamecache.json
+*.bak
