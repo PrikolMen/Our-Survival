@@ -24,6 +24,7 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
 renderDistance:9
+renderDistance:16
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -131,6 +132,7 @@ key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.schoolsofmagic.spell:key.keyboard.y
 key_key.curios.open.desc:key.keyboard.j
 key_keys.vampirism.action:key.keyboard.r
+key_keys.vampirism.action:key.keyboard.semicolon
 key_keys.vampirism.suck:key.keyboard.v
 key_keys.vampirism.select_skills:key.keyboard.p
 key_keys.vampirism.vision:key.keyboard.n
@@ -147,6 +149,7 @@ key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.unknown
 key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.jei.showRecipe:key.keyboard.r
+key_key.jei.showRecipe:key.keyboard.k
 key_key.jei.showUses:key.keyboard.u
 key_key.jei.recipeBack:key.keyboard.backspace
 key_key.jei.previousPage:key.keyboard.page.up
