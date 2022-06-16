@@ -57,7 +57,7 @@ mipmapLevels:0
 useNativeTransport:true
 mainHand:right
 attackIndicator:1
-narrator:2
+narrator:0
 tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
@@ -112,10 +112,10 @@ key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.apostrophe
 key_key.ftbultimine:key.keyboard.grave.accent
-key_key.wings.fly:key.keyboard.r
 key_key.ftbchunks.map:key.keyboard.m
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
+key_key.wings.fly:key.keyboard.r
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
@@ -133,11 +133,11 @@ key_key.toggle_focus.desc:key.keyboard.tab
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
+key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
-key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
-key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.cofh.mode_change_increment:key.keyboard.home
 key_key.cofh.mode_change_decrement:key.keyboard.end
 key_key.wallet:key.keyboard.m
@@ -145,6 +145,8 @@ key_key.team_settings:key.keyboard.right.bracket
 key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.curios.open.desc:key.keyboard.j
+key_key.schoolsofmagic.spell:key.keyboard.y
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_keys.vampirism.action:key.keyboard.semicolon
 key_keys.vampirism.suck:key.keyboard.v
 key_keys.vampirism.select_skills:key.keyboard.p
@@ -155,10 +157,8 @@ key_keys.vampirism.action3:key.keyboard.3:ALT
 key_keys.vampirism.minion_task:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_keys.werewolves.leap:key.keyboard.space:CONTROL
 key_keys.werewolves.bite:key.keyboard.v
-key_key.schoolsofmagic.spell:key.keyboard.y
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.unknown
