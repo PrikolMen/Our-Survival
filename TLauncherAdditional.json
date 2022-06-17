@@ -287,46 +287,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 421377,
-          "name": "HT's TreeChop",
-          "favorite": false,
-          "version": {
-            "id": 3480882,
-            "name": "TreeChop-1.16.4-0.14.6-fixed",
-            "metadata": {
-              "sha1": "8c0757d1db1e4a1b129449b1e2c158e91487834c",
-              "size": 252462,
-              "path": "mods/TreeChop-1.16.4-0.14.6-fixed.jar",
-              "url": "/mods/421377/3480882/TreeChop-1.16.4-0.14.6-fixed.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 355910,
-          "name": "The Legend of Herobrine (Forge 1.16.5)",
-          "favorite": false,
-          "version": {
-            "id": 3424369,
-            "name": "TheLegendOfHerobrine-1.16.5-0.6.3",
-            "metadata": {
-              "sha1": "966eff134c3da289c57847a581beb7e93cce6d35",
-              "size": 4399094,
-              "path": "mods/TheLegendOfHerobrine-1.16.5-0.6.3.jar",
-              "url": "/mods/355910/3424369/TheLegendOfHerobrine-1.16.5-0.6.3.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 372534,
           "name": "Pam's HarvestCraft 2 - Food Core",
           "favorite": false,
@@ -1945,6 +1905,55 @@
               "size": 380495,
               "path": "mods/3dSkinLayers-forge-1.1.0.jar",
               "url": "/mods/521480/3456514/3dSkinLayers-forge-1.1.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "favorite": false,
+          "version": {
+            "id": 3515707,
+            "name": "_1.16.5-7.6.4",
+            "metadata": {
+              "sha1": "986457447ebc040939214d5d59efb5529e3f9648",
+              "size": 375934,
+              "path": "mods/Waystones_1.16.5-7.6.4.jar",
+              "url": "/mods/245755/3515707/Waystones_1.16.5-7.6.4.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 531761,
+              "name": "Balm (Forge Edition)",
+              "gameEntityId": 531761,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 267193,
+          "name": "Chunk-Pregenerator",
+          "favorite": false,
+          "version": {
+            "id": 3810768,
+            "name": "Chunk Pregenerator-V1.16-3.3.1",
+            "metadata": {
+              "sha1": "1846260bd105bb61e13144679f8f003b0812940e",
+              "size": 501023,
+              "path": "mods/Chunk+Pregenerator-V1.16-3.3.1.jar",
+              "url": "/mods/267193/3810768/Chunk+Pregenerator-V1.16-3.3.1.jar"
             },
             "available": false
           },
