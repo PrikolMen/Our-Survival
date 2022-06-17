@@ -51,7 +51,7 @@ ofCustomColors:true
 ofCustomItems:true
 ofCustomSky:true
 ofShowCapes:true
-ofNaturalTextures:false
+ofNaturalTextures:true
 ofEmissiveTextures:true
 ofLazyChunkLoading:true
 ofRenderRegions:false
