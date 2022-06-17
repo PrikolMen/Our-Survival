@@ -15,3 +15,7 @@ saves
 local
 *.bak
 logs
+pregen/supporters.json
+optionsof.txt
+optionsof.txt
+config/bettervillage_general_.properties
